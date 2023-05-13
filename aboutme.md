@@ -4,4 +4,4 @@ About me
 
 
 Hi,My name is Ryan Singh Sareen. I am 9 years old and extremely bright.
-I will experement with CHAT GPT and tell you more about me.
+I will experiment with CHAT GPT and tell you more about me.
