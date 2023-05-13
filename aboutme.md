@@ -1,7 +1,3 @@
+About Me (Who I Am)
 
-About me
-(Who I am)
-
-
-Hi,My name is Ryan Singh Sareen. I am 9 years old and extremely bright.
-I will experiment with CHAT GPT and tell you more about me.
+Hi, my name is Ryan Singh Sareen. I am 9 years old and extremely bright. I will experiment with ChatGPT and tell you more about me
