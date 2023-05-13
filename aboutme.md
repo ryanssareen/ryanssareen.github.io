@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About me
+layout: page: 
+About me
 subtitle: Who I am
 
 
