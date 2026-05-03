@@ -10,8 +10,6 @@
         <a href="{{ site.baseurl }}/" class="site-title">{{ site.author.name }}</a>
         <nav class="site-nav">
           <a class="nav-link{% if page.title == 'Articles' or page.collection == 'articles' %} active{% endif %}" href="{{ '/articles/' | absolute_url }}">Articles</a>
-          <a class="nav-link{% if page.title == 'Notes' or page.collection == 'notes' %} active{% endif %}" href="{{ '/notes/' | absolute_url }}">Notes</a>
-          <a class="nav-link{% if page.title == 'Photography' or page.collection == 'photography' %} active{% endif %}" href="{{ '/photography/' | absolute_url }}">Photography</a>
           <a class="nav-link{% if page.title == 'About' %} active{% endif %}" href="{{ '/about/' | absolute_url }}">About</a>
         </nav>
       </div>
