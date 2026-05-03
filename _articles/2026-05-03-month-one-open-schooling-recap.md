@@ -8,7 +8,7 @@ categories: [Homeschool]
 
 ## Friends
 
-So the first thing we should talk about is my physical well-being, because that's what apparently matters the most.
+So the first thing we should talk about is my mental well-being, because that's what apparently matters the most.
 
 I think on like, a high level, I'm perfectly fine. I'm feeling good. But I will say, I'm a little isolated from old friends - one of them is really busy with school stuff and extracurriculars, and one of them had their phone taken away. So that's that. But I made some friends at dance, so I hang out with them, and I think that's currently working out well. In other regards though, yeah, I'm good.
 
