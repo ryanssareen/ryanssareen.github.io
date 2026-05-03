@@ -19,5 +19,3 @@ title: About
 </div>
 
 Say hello at [ryanssareen@gmail.com](mailto:ryanssareen@gmail.com)!
-
-Btw, ryan here
