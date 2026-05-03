@@ -3,22 +3,6 @@ layout: page
 title: Articles
 ---
 
-<div class="articles-header">
-  <p class="archive-link"><a href="{{ site.baseurl }}/articles/archive/">View Complete Archive &rarr;</a></p>
-
-  <div class="topic-filters">
-    <span class="filter-label">Filter by topic:</span>
-    <a href="#triathlon">Triathlon</a> |
-    <a href="#productivity">Productivity</a> |
-    <a href="#nutrition">Nutrition</a> |
-    <a href="#fitness">Fitness</a> |
-    <a href="#recipes">Recipes</a> |
-    <a href="#books">Books</a> |
-    <a href="#travel">Travel</a> |
-    <a href="#tech">Tech</a>
-  </div>
-</div>
-
 {% assign categories = "Triathlon|Productivity|Nutrition|Fitness|Recipes|Books|Travel|Tech" | split: "|" %}
 
 {% for category in categories %}
