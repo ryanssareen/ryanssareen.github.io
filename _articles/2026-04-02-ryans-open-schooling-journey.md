@@ -1,9 +1,9 @@
 ---
 layout: article
 title: Ryan's Open Schooling Journey - Our Plan
-date: 2026-03-01
+date: 2026-04-02
 author: Rishi Sareen
-categories: [Personal]
+categories: [Homeschool]
 ---
 
 ## Why We Made This Choice
