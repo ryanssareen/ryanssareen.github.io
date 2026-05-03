@@ -5,18 +5,19 @@ title: About
 
 <div class="about-container">
   <div class="about-photo-container">
-    <img src="{{ site.baseurl }}/public/images/rishi.jpg" alt="Rishi Sareen" class="about-photo">
+    <img src="{{ site.baseurl }}/public/images/ryan.jpg" alt="Ryan Singh Sareen" class="about-photo">
   </div>
   <div class="about-content">
-    <p>Hey there! I'm Rishi.</p>
-    <p>I'm an endurance athlete, avid reader, and someone who loves pushing boundaries. What started as a bucket list item – completing a triathlon – has become a full-blown passion. I've finished multiple Ironman races and love sharing what I learn along the way.</p>
+    <p>Hi. I'm Ryan, your friendly neighbourhood 13 year old (almost). I'm an app developer (technically vibe coder). While I could tell you I was born analytical, precise and thoughtful, that's just not true. I was and still am a quite chaotic, loud and clumsy kid.</p>
+    
+    <p>My journey begins at the age of 9. I was introduced to the art of solving Rubiks cube along with my elder sister and I absolutely loved it. It took me a while, but I eventually cracked sub 30 seconds solve. After that, for 2 years, I was deep into the game of chess, reaching a rating of 1650 Fide.</p>
+    
+    <p>After that, I took a break from chess, and started web/app development.</p>
+    
+    <p>This is where I plan to organise my thoughts, share my journey and build a hall of me.</p>
   </div>
 </div>
 
-When I'm not training, you'll find me deep in a book. Started with fiction (Jeffrey Archer, PG Wodehouse, Sherlock Holmes) and now I'm obsessed with the science of habits, nutrition, and sports performance.
+Say hello at [ryanssareen@gmail.com](mailto:ryanssareen@gmail.com)!
 
-This site is where I share race reports, book notes, and things I'm learning about fitness and productivity. Always a work in progress.
-
-Say hello: [rishi@rishisareen.com](mailto:rishi@rishisareen.com)
-
-Follow my adventures on Instagram [@rishi.sareen](https://instagram.com/rishi.sareen).
+Btw, ryan here
