@@ -1,17 +1,17 @@
 # Setup
-title:               Rishi Sareen
+title:               Ryan Singh Sareen
 tagline:             ''
-description:         'Triathlete. Reader. Following curiosity.'
-url:                 https://rishisareen.com
+description:         'Explorer. Learner. Following curiosity.'
+url:                 https://ryanssareen.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Rishi Sareen
+  name:              Ryan Singh Sareen
   url:
-  email:
+  email:             ryanssareen@gmail.com
 
 # Gems
 plugins:
@@ -22,12 +22,6 @@ collections:
   articles:
     output: true
     permalink: /articles/:title/
-  notes:
-    output: true
-    permalink: /notes/:path/
-  photography:
-    output: true
-    permalink: /photography/:title/
 
 # Custom vars
 version:             1.1.0

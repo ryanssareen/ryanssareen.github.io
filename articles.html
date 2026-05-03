@@ -30,7 +30,12 @@ title: Articles
       {% for article in cat_articles limit: 4 %}
       <li>
         <a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
-        <span class="article-date">{{ article.date | date: "%b %Y" }}</span>
+        <span class="article-meta">
+          <span class="article-date">{{ article.date | date: "%b %Y" }}</span>
+          {% if article.author %}
+          <span class="article-author">• {{ article.author }}</span>
+          {% endif %}
+        </span>
       </li>
       {% endfor %}
     </ul>
