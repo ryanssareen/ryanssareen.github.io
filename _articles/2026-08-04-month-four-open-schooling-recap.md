@@ -8,7 +8,7 @@ categories: [Homeschool]
 
 ## Friends and Mental Health
 
-At the moment, I'm very happy. Things were a little quiet last month, but this month things finally cleared out. It doesn't start since my cousin left, but it's also great to be back on routine. And I've been talking to a couple of my friends, and that's going good, I guess.
+At the moment, I'm very happy. Things were a little quiet last month, but this month things finally cleared out. It's not all good since my cousin left, but it's also great to be back on routine. And I've been talking to a couple of my friends, and that's going good, I guess.
 
 ---
 
