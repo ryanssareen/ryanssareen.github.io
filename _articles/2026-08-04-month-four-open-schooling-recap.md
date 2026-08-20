@@ -16,11 +16,11 @@ At the moment, I'm very happy. Things were a little quiet last month, but this m
 
 ### Current Status of NIOS
 
-I did two chapters of Science this month. This is like the August update.
+I did two chapters of Science this month.
 
 ### Maths
 
-Just maths, nothing to say there. It's going well. I did try some IMO problems, just to see how they are, for a couple hours. Nothing much.
+I did two chapters of Maths this month. It's going well. I did try some IMO problems, just to see how they are, for a couple hours. Nothing much.
 
 ---
 
@@ -38,7 +38,7 @@ Started playing a little bit again, just for leisure. I played with one of my ow
 
 ## Physical Activity
 
-Dance is doing well, and before the cousins left we accelerated a lot.
+Dance is doing well. I did a couple new chapters, and before the cousins left we accelerated a lot.
 
 ---
 
