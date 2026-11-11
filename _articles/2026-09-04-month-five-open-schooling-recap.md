@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Month Five - Open Schooling Recap
-date: 2026-10-02
+date: 2026-09-04
 author: Ryan Singh Sareen
 categories: [Homeschool]
 ---
