@@ -1,7 +1,7 @@
 ---
 layout: article
-title: October - Open Schooling Recap
-date: 2026-11-02
+title: Month Six - Open Schooling Recap
+date: 2026-10-02
 author: Ryan Singh Sareen
 categories: [Homeschool]
 ---
