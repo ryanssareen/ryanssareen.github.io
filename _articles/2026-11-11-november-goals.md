@@ -6,7 +6,7 @@ author: Ryan Singh Sareen
 categories: [Homeschool]
 ---
 
-My goals for November, written as S.M.A.R.T. goals: Specific, Measurable, Achievable, Relevant and Time-bound. Everything is due by **30 November 2026**, which gives me about 19 days from today.
+My goals for November, written as S.M.A.R.T. goals: Specific, Measurable, Achievable, Relevant and Time-bound. Everything is due by **11 December 2026**, which gives me 30 days from today.
 
 ---
 
@@ -16,17 +16,17 @@ My goals for November, written as S.M.A.R.T. goals: Specific, Measurable, Achiev
 - **Measurable:** 2 chapters completed.
 - **Achievable:** Maths has been going great, and I've already been tested on chapters 1 to 12.
 - **Relevant:** Keeps my open schooling maths moving along.
-- **Time-bound:** Chapter 14 by 20 November, chapter 15 by 30 November.
+- **Time-bound:** Both chapters done by 11 December.
 
 ---
 
 ## 2. Running: 16 runs
 
 - **Specific:** Go for a run, at least 4 times a week.
-- **Measurable:** 16 runs logged by the end of the month.
-- **Achievable:** 4 a week for the rest of the month works out to about 16. Last month I only managed a few days because I was ill, but I'm better now.
+- **Measurable:** 16 runs logged.
+- **Achievable:** 4 a week over 30 days works out to about 16. Last month I only managed a few days because I was ill, but I'm better now.
 - **Relevant:** I cut down dance, so running is my main exercise.
-- **Time-bound:** 16 runs by 30 November, so about 4 by 17 November.
+- **Time-bound:** 16 runs by 11 December.
 
 ---
 
@@ -37,9 +37,9 @@ My goals for November, written as S.M.A.R.T. goals: Specific, Measurable, Achiev
   2. *Catching Fire*
   3. *Mockingjay*
 - **Measurable:** 3 books finished, in that order.
-- **Achievable:** Each book is roughly 370 to 400 pages, so about one book every 6 days.
+- **Achievable:** Each book is roughly 370 to 400 pages, so about one book every 10 days.
 - **Relevant:** Reading for fun and building the habit.
-- **Time-bound:** Book 1 by 17 November, book 2 by 24 November, book 3 by 30 November.
+- **Time-bound:** All 3 books finished by 11 December.
 
 ---
 
@@ -47,9 +47,9 @@ My goals for November, written as S.M.A.R.T. goals: Specific, Measurable, Achiev
 
 - **Specific:** Complete NIOS Science chapters 18, 19, 20 and 21.
 - **Measurable:** 4 chapters completed.
-- **Achievable:** I'm already up to chapter 18, so this is the next stretch, about one chapter every 5 days.
+- **Achievable:** I'm already up to chapter 18, so this is the next stretch, about one chapter every 7 days.
 - **Relevant:** Moves me towards finishing NIOS Science.
-- **Time-bound:** Chapter 18 by 15 November, 19 by 20 November, 20 by 25 November and 21 by 30 November.
+- **Time-bound:** All 4 chapters done by 11 December.
 
 ---
 
@@ -69,9 +69,9 @@ My goals for November, written as S.M.A.R.T. goals: Specific, Measurable, Achiev
   11. [Session 6: Financial Ratios: Of comps and peer groups](https://youtu.be/ZXXF-rSaE9E)
   12. [Session 6A: Financial Ratios: Illustrations](https://youtu.be/pL2wIDWXN68)
 - **Measurable:** 12 of 12 videos watched, and a short note on each one.
-- **Achievable:** At about 12 to 20 minutes each, that's roughly 3 to 4 hours in total, so 1 video every day or two.
+- **Achievable:** At about 12 to 20 minutes each, that's roughly 3 to 4 hours in total, so about 1 video every 2 to 3 days.
 - **Relevant:** It teaches the accounting that goes into the website below.
-- **Time-bound:** Videos 1 to 6 by 20 November and videos 7 to 12 by 30 November.
+- **Time-bound:** All 12 videos watched by 11 December.
 
 ---
 
@@ -81,7 +81,7 @@ My goals for November, written as S.M.A.R.T. goals: Specific, Measurable, Achiev
 - **Measurable:** A live first version with at least 3 lessons, one for each of those statements.
 - **Achievable:** I've built apps before, and the Damodaran videos give me the material for the first lessons.
 - **Relevant:** It combines what I'm learning in accounting with my coding.
-- **Time-bound:** Plan and outline by 20 November, and the first version live by 30 November.
+- **Time-bound:** First version live by 11 December.
 
 ---
 
