@@ -32,7 +32,7 @@ Got my Garmin API approved, so now I support both. Fixed some bugs, and did some
 
 ## Physical Activity
 
-I cut down dance since I didn't find it enjoyable. Running was only about 5 days this month because I was ill. It got delayed, but before that I had started. I plan to run at least 4 times a week, if not 5.
+I cut down dance since I didn't find it enjoyable. Running was only a few days this month because I was ill. It got delayed, but before that I had started. I plan to run at least 4 times a week, if not 5.
 
 ---
 
